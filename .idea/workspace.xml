@@ -20,20 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="be639f56-2bcf-4dd1-9733-dacd1159e205" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/educa.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courses/templates/courses/content/file.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courses/templates/courses/content/image.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courses/templates/courses/content/text.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courses/templates/courses/content/video.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/courses/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/courses/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/educa/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/educa/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/educa/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/educa/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,7 +113,7 @@
       <updated>1605597638276</updated>
       <workItem from="1605597639377" duration="13532000" />
       <workItem from="1605614559558" duration="2007000" />
-      <workItem from="1605616675218" duration="17423000" />
+      <workItem from="1605616675218" duration="18912000" />
     </task>
     <servers />
   </component>
