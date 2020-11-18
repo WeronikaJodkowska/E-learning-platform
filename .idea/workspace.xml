@@ -20,8 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="be639f56-2bcf-4dd1-9733-dacd1159e205" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/courses/api/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courses/api/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/courses/api/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/courses/api/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/educa/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/educa/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,7 +116,7 @@
       <updated>1605597638276</updated>
       <workItem from="1605597639377" duration="13532000" />
       <workItem from="1605614559558" duration="2007000" />
-      <workItem from="1605616675218" duration="23308000" />
+      <workItem from="1605616675218" duration="25853000" />
     </task>
     <servers />
   </component>
